@@ -1,0 +1,7 @@
+{
+  "name": "songso",
+  "description": "Plan, launch and optimize Meta ad campaigns for music releases and generate creative ad videos with song.so. Bundles the song.so MCP connector with the meta-music-ads and edit-generation skills.",
+  "version": "3.4.0",
+  "author": { "name": "song.so", "url": "https://song.so" },
+  "homepage": "https://app.song.so/mcp"
+}

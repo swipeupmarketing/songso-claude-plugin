@@ -1,0 +1,13 @@
+{
+  "name": "songso",
+  "owner": { "name": "song.so", "url": "https://song.so" },
+  "plugins": [
+    {
+      "name": "songso",
+      "source": "./plugins/songso",
+      "description": "song.so connector plus the meta-music-ads and edit-generation skills for music release marketing.",
+      "version": "3.4.0",
+      "category": "marketing"
+    }
+  ]
+}
